@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/5a35b761-0a59-4785-8202-464c03b32507
 - Muhammad Nasser
 
 ## 🧾 License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/3D-Anatomy-Organs-Puzzle/blob/e223ef22b85733c55d2707edb9670c6d07eb32e7/LICENSE) for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Mostafa-H07/3D-Organ-Puzzle/blob/cc767d477f62160886551ede3a5ad87ef498d5e0/LICENSE) for details.
 
 ## 📞 Contact
 Email: mostafa.ibrahim07@eng-st.cu.edu.eg <br>
