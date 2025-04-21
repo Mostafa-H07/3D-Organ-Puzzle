@@ -32,15 +32,14 @@ The result? A unique, hands-on anatomy puzzle that challenges users’ spatial s
 https://github.com/user-attachments/assets/5a35b761-0a59-4785-8202-464c03b32507
 
 ## 🦸‍♂️ Contributors
-- Mostafa Hany
-- Mostafa Hazem
+- Mostafa Hany Mostafa
+- Mostafa Hany Tawfiq
 - Muhammad Nasser
 
 ## 🧾 License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/3D-Anatomy-Organs-Puzzle/blob/e223ef22b85733c55d2707edb9670c6d07eb32e7/LICENSE) for details.
 
 ## 📞 Contact
-Email: Mostafahany4705@gmail.com <br>
-LinkedIn: www.linkedin.com/in/mostafahany4705
+Email: mostafa.ibrahim07@eng-st.cu.edu.eg <br>
 
 
